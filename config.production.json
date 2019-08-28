@@ -13,18 +13,5 @@
         "frontend": {
             "maxAge": 600
         }
-    },
-    "mail": {
-        "transport": "SMTP",
-        "options": {
-            "service": "Mailgun",
-            "host": "smtp.mailgun.org",
-            "port": 587,
-            "secureConnection": true,
-            "auth": {
-                "user": "postmaster@sandbox53c69874e5054921b582f0fbedc4e0b7.mailgun.org",
-                "pass": "784898be1cf63e8e6f67442157659811-19f318b0-aef1ff01"
-            }
-        }
     }
 }
